@@ -61,3 +61,9 @@ Input
 ```
 $ git status
 ```
+
+<details>
+<summary>This is the dropdown title</summary>
+<br>
+This is the hidden dropdown content.
+</details>
