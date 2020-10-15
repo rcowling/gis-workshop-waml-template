@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Your New Page's Title
-nav_order: 11
+title: Favorite Map
+nav_order: 2.5
 ---
 ![My favorite map](img/fav-map.png)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ipsum tempus, ornare lorem nec, efficitur ante. Nullam in nisl sed mi vehicula ultricies in a nisi. Quisque in elit id neque placerat vestibulum porttitor tempor magna. Aliquam vitae ultricies nibh. Donec in tellus auctor, pellentesque ante eu, efficitur libero. Praesent sagittis nunc nec posuere semper. Nulla facilisi. Maecenas eget aliquet augue.
