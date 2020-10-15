@@ -80,3 +80,5 @@ Step 2
 {: .label .label-step}
 Do this other thing
 {: .step}
+
+*1*{: .circle .circle-blue} Number in normal text
