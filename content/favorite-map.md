@@ -56,6 +56,8 @@ Bender, this is Fry's decision… and he made it wrong. So it's time for us to i
 2. Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
 3. With gusto.
 
-- Basic slug identification
-- Comfortable in the woods
-{: .prereq}
+Input
+{: .label .label-green }
+```
+$ git status
+```
