@@ -55,3 +55,7 @@ Bender, this is Fry's decision… and he made it wrong. So it's time for us to i
 1. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
 2. Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
 3. With gusto.
+
+- Basic slug identification
+- Comfortable in the woods
+{: .prereq}
