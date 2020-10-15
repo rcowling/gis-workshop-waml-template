@@ -67,3 +67,6 @@ $ git status
 <br>
 This is the hidden dropdown content.
 </details>
+
+Snails armed and dangerous
+{: .danger}
