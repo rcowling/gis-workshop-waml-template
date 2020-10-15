@@ -82,3 +82,5 @@ Do this other thing
 {: .step}
 
 *1*{: .circle .circle-blue} Number in normal text
+
+<iframe src="../data/oim-map.html" height="500"></iframe>
