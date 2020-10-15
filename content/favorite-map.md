@@ -70,3 +70,13 @@ This is the hidden dropdown content.
 
 Snails armed and dangerous
 {: .danger}
+
+Step 1
+{: .label .label-step}
+Do this thing
+{: .step}
+
+Step 2
+{: .label .label-step}
+Do this other thing
+{: .step}
